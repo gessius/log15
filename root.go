@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/mattn/go-colorable"
-	"github.com/tendermint/log15/term"
+	"github.com/intfoundation/log15/term"
 )
 
 var (

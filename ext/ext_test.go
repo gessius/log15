@@ -2,7 +2,7 @@ package ext
 
 import (
 	"errors"
-	log "github.com/tendermint/log15"
+	log "github.com/intfoundation/log15"
 	"math"
 	"testing"
 )
